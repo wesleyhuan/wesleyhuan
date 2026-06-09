@@ -12,9 +12,9 @@ a 10-week intensive focused on LLMs, RAG, fine-tuning, and agentic systems.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎓 [Voice Learning Assistant](https://github.com/wesleyhuan/voice-learning-assistant) | Voice-powered AI tutor with RAG knowledge base | Claude API · faster-whisper · Chroma · Streamlit |
+| 🎓 [Voice Learning Assistant]([https://github.com/wesleyhuan/voice-learning-assistant](https://github.com/wesleyhuan/voice-learning-assistant)) | Voice-powered AI tutor with RAG knowledge base | Claude API · faster-whisper · Chroma · Streamlit |
 | 🔍 [RAG Research Assistant](https://github.com/wesleyhuan/rag-research-assistant) | Production RAG pipeline with hybrid search & evaluation | LangChain · FAISS · FlashRank · RAGAS |
-| 🗂️ [Multimodal Data Pipeline](https://github.com/wesleyhuan/multimodal-data-pipeline) | Web / OCR / ASR extraction pipeline with Gradio UI | Crawl4AI · Marker · faster-whisper · Gradio |
+| 🗂️ [Multimodal Data Pipeline](https://github.com/wesleyhuan/data-extraction-toolkit) | Web / OCR / ASR extraction pipeline with Gradio UI | Crawl4AI · Marker · faster-whisper · Gradio |
 
 ---
 
@@ -45,5 +45,5 @@ Week 10     Agentic Systems & Capstone
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/%E5%94%AF%E8%BB%92-%E9%BB%83-061b631a3/))](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wesleyhuan)
