@@ -45,5 +45,5 @@ Week 10     Agentic Systems & Capstone
 
 ## 📫 Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/%E5%94%AF%E8%BB%92-%E9%BB%83-061b631a3/))](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](www.linkedin.com/in/wei-xuan-hunag-061b631a3/))](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wesleyhuan)
